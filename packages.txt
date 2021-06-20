@@ -1,0 +1,5 @@
+plasma-meta packagekit-qt5 xdg-user-dirs kwalletmanager
+gwenview okular
+ark kate spectacle
+dolphin dolphin-plugins konsole
+firefox
